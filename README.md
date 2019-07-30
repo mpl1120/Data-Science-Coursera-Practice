@@ -1,2 +1,2 @@
 # Data-Science-Coursera-Practice
-Repo for sample projects from for Science MOOC course
+Repo for sample projects for Data Science MOOC course
